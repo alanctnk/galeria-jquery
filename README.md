@@ -1,5 +1,13 @@
 # galeria-jquery
 
-Galeria de imagens com jQuery e Webpack.
+Galeria de imagens com jQuery e Webpack
 
-You can use [here](http://alanctnk.github.io/galeria-jquery)
+## Project setup
+```
+npm install
+```
+
+### Webpack dev server
+```
+npm start
+```
