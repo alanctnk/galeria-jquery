@@ -4,10 +4,13 @@ Galeria de imagens com jQuery e Webpack
 
 ## Project setup
 ```
-npm install
+yarn
 ```
 
 ### Webpack dev server
 ```
-npm start
+yarn start
 ```
+## Link
+
+https://galeria-jquery.vercel.app/
